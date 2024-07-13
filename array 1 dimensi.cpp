@@ -1,4 +1,4 @@
-#include <iostream>  kontooooollllllll
+#include <iostream>
 using namespace std;
 
 int main(){
